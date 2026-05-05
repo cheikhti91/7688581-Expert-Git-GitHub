@@ -23,7 +23,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 ```
 A définir
 ```
-
+Modification sur GITHUB pour créer un conflit
 
 
 ## Executer les tests
